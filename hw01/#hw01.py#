@@ -135,8 +135,7 @@ def hailstone(n):
             n = 3 * n + 1
         print(n)
         length = length + 1
-    return lengtfk
-
+    return length
 challenge_question_program = """
 "*** YOUR CODE HERE ***"
 """
